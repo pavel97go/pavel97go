@@ -6,11 +6,7 @@
 <h1 align="center">🔥 Привет, я Павел 😎</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" width="200px"/>
-</p>
-
-<p align="center">
-  💻 Backend Dev ⚡ Go | PostgreSQL | Docker <br/>
+  <b><i style="color:#00FFFF">💻 Backend Dev ⚡ Go | PostgreSQL | Docker</i></b><br/>
   Clean code, real projects, no bullshit 🚀
 </p>
 
