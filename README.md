@@ -1,12 +1,17 @@
-<h1 align="center">👋 Привет, я Павел</h1>
+<!-- Анимированная полоса сверху -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
+
+<h1 align="center">🔥 Привет, я Павел 😎</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120px"/>
 </p>
 
 <p align="center">
   💻 Backend Dev ⚡ Go | PostgreSQL | Docker <br/>
-  Clean code, real projects, no bullshit 😎
+  Clean code, real projects, no bullshit 🚀
 </p>
 
 ---
@@ -43,7 +48,7 @@
 
 ### ✨ Немного обо мне
 - 🐹 Пишу на **Go**, потому что люблю скорость и минимализм  
-- 🗄️ **Postgres** — мой лучший друг 
+- 🗄️ **Postgres** — мой лучший друг  
 - 🔧 Ломаю код, чтобы потом собрать ещё лучше  
 - 💡 Не ищу костыли — ищу элегантные решения  
 - 🌍 Remote only, но всегда на связи ⚡
